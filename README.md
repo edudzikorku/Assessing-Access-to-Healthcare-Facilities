@@ -6,5 +6,7 @@ especially in rural areas. This can result in increased morbidity and mortality 
 </p>
 <p>This assessment provides valuable insights into the accessibility and availability of healthcare services in Ho, Ghana, and highlights areas that 
 require attention to meet the WHO standards and SDG goals. 
+</p>
+<p>
 More information can be found here :point_down: :point_down:: <br /> <a href="">Projects</a>  
 </p>
