@@ -8,5 +8,5 @@ especially in rural areas. This can result in increased morbidity and mortality 
 require attention to meet the WHO standards and SDG goals. 
 </p>
 <p>
-More information can be found here :point_down: :point_down:: <br /> <a href="">Projects</a>  
+More information can be found here :point_down: :point_down:: <br /> <a href="https://edudzikorku.github.io/projects/documents/healthcare_in_ho.html">Projects</a>  
 </p>
